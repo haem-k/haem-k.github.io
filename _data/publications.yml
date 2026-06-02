@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Long-term Motion In-betweening via Keyframe Prediction
+    authors: Seokhyeon Hong, <strong>Haemin Kim</strong>, Kyungmin Cho, Junyong Noh
+    conference_short: CGF
+    conference: Computer Graphics Forum<strong>(CGF)</strong>, Volume 43, Issue 8, 2024.
+    pdf: https://onlinelibrary.wiley.com/doi/10.1111/cgf.15171?af=R
+    code: https://github.com/seokhyeonhong/long-mib
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/long_term_teaser.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Recurrent Motion Refiner for Locomotion Stitching
+    authors: <strong>Haemin Kim</strong>, Kyungmin Cho, Seokhyeon Hong, Junyong Noh
+    conference_short: CGF
+    conference: Computer Graphics Forum<strong>(CGF)</strong>, Volume 42, Issue 6, 2023.
+    pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14920
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/rmr_teaser.png
