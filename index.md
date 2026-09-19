@@ -11,7 +11,7 @@ For full list of publications, please refer to CV.
 ## Research Interests
 
 <!-- - **Character Animation:** Motion Editing, Motion Stitching, Motion In-betweening, Motion Synthesis -->
-- **Motion Editing, Motion Stitching, Motion In-betweening, Motion Synthesis**
+- **Motion Editing | Motion Stitching | Motion In-betweening | Motion Synthesis**
 
 <!-- ## News
 
