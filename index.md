@@ -8,7 +8,7 @@ I am a Ph.D. student at KAIST in Daejeon, South Korea, advised by Prof. Junyong 
 
 ## Research Interests
 
-- **Character Animation:** motion editing, motion stitching, motion in-betweening, motion synthesis
+- **Character Animation:** Motion Editing, Motion Stitching, Motion In-betweening, Motion Synthesis
 
 <!-- ## News
 
