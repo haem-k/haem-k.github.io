@@ -2,7 +2,7 @@ main:
   - title: Length-varying Neural Motion Stitching via Cluster Transition Graph
     authors: <strong>Haemin Kim</strong>, Junghyun Nam, Seokhyeon Hong, Vanessa Tan, Junyong Noh
     conference_short: TOG
-    conference: Transaction on Graphics<strong>(TOG)</strong>
+    conference: ACM Transaction on Graphics<strong>(TOG)</strong>
     # pdf: https://onlinelibrary.wiley.com/doi/10.1111/cgf.15171?af=R
     # code: https://github.com/seokhyeonhong/long-mib
     # bibtex: https://bib.yliu.me/MICCAI23.txt
