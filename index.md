@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at KAIST in Daejeon, South Korea, advised by Prof. Junyong Noh. My research focuses on data-driven motion synthesis and editing for character animation. In the long term, I aim to develop tools that help create convincing and lovable character animations.
+I am a Ph.D. student at KAIST in Daejeon, South Korea, advised by Prof. Junyong Noh. My research focuses on data-driven motion synthesis and editing for character animation. In the long term, I aim to develop tools that help create convincing and expressive character motions.
 
 For full list of publications, please refer to CV.
 
