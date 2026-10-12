@@ -1,4 +1,4 @@
-## Honors & Awards
+## Honors
 
 - **2019** — First Place in Ewha Engineering Capstone Design Contest, Ewha Womans University
 - **2019** — Women Techmakers Scholarship APAC, Google
