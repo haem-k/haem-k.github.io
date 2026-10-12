@@ -21,5 +21,5 @@ For full list of publications, please refer to CV.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/publications.md %}
-
+{% include_relative _includes/honors.md %}
 {% include_relative _includes/services.md %}
