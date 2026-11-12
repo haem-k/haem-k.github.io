@@ -3,7 +3,7 @@ main:
     authors: <strong>Haemin Kim</strong>, Junghyun Nam, Seokhyeon Hong, Vanessa Tan, Junyong Noh
     conference_short: TOG
     conference: ACM Transaction on Graphics<strong>(TOG)</strong>
-    # pdf: https://onlinelibrary.wiley.com/doi/10.1111/cgf.15171?af=R
+    pdf: https://dl.acm.org/doi/10.1145/3842516
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     page: https://haem-k.github.io/nms/
     code: https://github.com/haem-k/neural-motion-stitching
